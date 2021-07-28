@@ -20,3 +20,5 @@
 - 그럼 어느정도 감이 잡히고 나서 다시 해당 문제를 보면, 풀리지 않을까!
 
 7. 질문 검색도 잘 활용하기
+
+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
